@@ -4,7 +4,6 @@ import 'package:flutter_layout_grid/flutter_layout_grid.dart';
 import 'package:minimal/gen/assets.gen.dart';
 import 'package:minimal/src/views/component/component.dart';
 
-
 class Layout extends StatelessWidget {
   const Layout({
     super.key,

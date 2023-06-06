@@ -132,7 +132,6 @@ class StepsCard extends StatelessWidget {
   }
 }
 
-
 class StoryCard extends StatelessWidget {
   const StoryCard({
     Key? key,

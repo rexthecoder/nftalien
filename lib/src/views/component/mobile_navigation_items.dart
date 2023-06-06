@@ -51,6 +51,3 @@ class MobileNavigationItems extends StatelessWidget {
     );
   }
 }
-
-
-
