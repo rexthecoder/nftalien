@@ -78,8 +78,9 @@ class Heros extends StatelessWidget {
                     child: AutoSizeText(
                       "Connect Wallet",
                       style: TextStyles.body.copyWith(
-                          color: const Color(0xff141B22),
-                          fontWeight: FontWeight.bold,),
+                        color: const Color(0xff141B22),
+                        fontWeight: FontWeight.bold,
+                      ),
                     ),
                   ),
                   const SizedBox(
@@ -118,4 +119,3 @@ class Heros extends StatelessWidget {
     );
   }
 }
-

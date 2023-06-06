@@ -73,7 +73,7 @@ class _CustomDrawerState extends State<CustomDrawer>
       ),
     );
 
-    overlayState!.insert(overlayEntry);
+    overlayState.insert(overlayEntry);
   }
 
   @override

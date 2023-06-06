@@ -3,7 +3,6 @@ import 'package:bamboo/bamboo.dart';
 import 'package:flutter/material.dart';
 import 'package:minimal/gen/assets.gen.dart';
 import 'package:minimal/src/style/styles.dart';
-import 'package:minimal/src/views/home_view.dart';
 import 'package:minimal/src/widget/layout.dart';
 
 import 'component.dart';
@@ -50,7 +49,6 @@ class CollectionCard extends StatelessWidget {
     );
   }
 }
-
 
 class StoryCollection extends StatelessWidget {
   const StoryCollection({
@@ -172,6 +170,3 @@ class HotCollection extends StatelessWidget {
     );
   }
 }
-
-
-
